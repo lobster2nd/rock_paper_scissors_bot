@@ -1,1 +1,2 @@
-# rock_paper_scissors_bot
+A bot to play a simple guess-game. Just start your bot and follow instructions.  
+Add valid BOT_TOKEN to .env
